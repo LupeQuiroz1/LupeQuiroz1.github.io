@@ -11,7 +11,7 @@ header a:hover {
 }
 
 a:visited {
-    color: pink;
+    color: red;
 }
 
 body {
@@ -77,7 +77,7 @@ header ul li a { /* for links we need additional styling */
 #circle {
 	width: 200px;
 	height: 200px;
-	background-image: url("../images/rh_portrait_outline_circle_grey.svg"); /* RH EDIT*/
+	background-image: url("../images/sugarskullcat"); /* RH EDIT*/
 	-moz-border-radius: 50px;
 	-webkit-border-radius: 50px;
 	border-radius: 250px;
